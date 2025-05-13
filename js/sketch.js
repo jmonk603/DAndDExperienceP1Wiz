@@ -90,11 +90,11 @@ function touchEnded(){
 
 function openLink(){
   if (storyCounter == 3){
-    window.open("https://jmonk603.github.io/DAndDARAcceptQuest/");
-    window.location.href = ('https://jmonk603.github.io/DAndDExperienceP2/');
+    window.open("https://jmonk603.github.io/DAndDARAcceptQuestWiz/");
+    window.location.href = ('https://jmonk603.github.io/DAndDExperienceP2Wiz/');
   }
   else if (storyCounter == 5){
-    window.open("https://jmonk603.github.io/DandDARDenyQuest/");
-    window.location.href = ('https://jmonk603.github.io/DAndDExperience/');
+    window.open("https://jmonk603.github.io/DandDARDenyQuestWiz/");
+    window.location.href = ('https://jmonk603.github.io/DAndDExperienceP1Wiz/');
   }
 }
