@@ -1,4 +1,6 @@
 Pier
-Town
-Forest
-Mountain Peak
+Make your choice
+choice made
+redirected
+choice made
+redirected
