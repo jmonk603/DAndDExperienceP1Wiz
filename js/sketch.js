@@ -90,7 +90,7 @@ function touchEnded(){
 
 function openLink(){
   if (storyCounter == 3){
-    window.open("https://jmonk603.github.io/DAndDARAcceptQuestWiz/");
+    window.open("https://jmonk603.github.io/DandDARAcceptQuestWiz/");
     window.location.href = ('https://jmonk603.github.io/DAndDExperienceP2Wiz/');
   }
   else if (storyCounter == 5){
